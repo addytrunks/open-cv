@@ -1,6 +1,6 @@
 import cv2 as cv
 
-# Scaling is done to make the image smaller or larger,so that the image can fit the screen and also can be processed faster
+# Scaling is done to make the image smaller or larger,so that the image can fit the screen and can also  be processed faster
 def rescaleFame(frame, scale=0.75):
     width = int(frame.shape[1] * scale)
     height = int(frame.shape[0] * scale)
