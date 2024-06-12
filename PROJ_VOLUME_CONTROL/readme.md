@@ -9,7 +9,6 @@ manage your audio without touching any hardware controls.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 
 ## Introduction
@@ -33,18 +32,6 @@ and hands-free approach to volume control.
 - Numpy
 - Pycaw
 - Comtypes
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hand-tracking-volume-control.git
-   cd hand-tracking-volume-control
-   ```
-2. Install the required packages
-   ```bash
-   pip install opencv-python mediapipe numpy pycaw comtypes
-   ```
 
 ## Usage
 
